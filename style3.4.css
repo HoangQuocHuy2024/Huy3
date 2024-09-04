@@ -1,0 +1,8 @@
+.gallery img {
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+
+.gallery img:hover {
+  opacity: 0.6;
+}
